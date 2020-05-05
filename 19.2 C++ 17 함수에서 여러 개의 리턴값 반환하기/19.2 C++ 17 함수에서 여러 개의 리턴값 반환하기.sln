@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19.2 C++ 17 함수에서 여러 개의 리턴값 반환하기", "19.2 C++ 17 함수에서 여러 개의 리턴값 반환하기\19.2 C++ 17 함수에서 여러 개의 리턴값 반환하기.vcxproj", "{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Debug|x64.ActiveCfg = Debug|x64
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Debug|x64.Build.0 = Debug|x64
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Debug|x86.Build.0 = Debug|Win32
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Release|x64.ActiveCfg = Release|x64
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Release|x64.Build.0 = Release|x64
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Release|x86.ActiveCfg = Release|Win32
+		{4EF29A4F-9303-4612-BEC6-5FBB5ACE8EFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336AEDCD-74DC-413D-AD03-65605763DA0B}
+	EndGlobalSection
+EndGlobal
